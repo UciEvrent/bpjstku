@@ -7,7 +7,7 @@ class newUser extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pendaftaran Peserta Baru BPJSTKU 2021"),
+        title: Text("Daftar Peserta Baru BPJSTKU 2021"),
       ),
 
     );
